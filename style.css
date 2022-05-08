@@ -1,0 +1,109 @@
+body {
+    background-color: #8ca7a7;
+}
+.top{
+    background-color: rgb(5, 63, 113);
+}
+
+h1 {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+}
+h1:hover{
+    color: rgb(10, 60, 61);
+}
+/* #resume{
+    color: red;
+} */
+ .Image{
+     border-radius:10%;
+ }
+h2 {
+    color: rgb(2, 2, 23);
+}
+
+h3 {
+    color: rgb(5, 166, 166);
+}
+
+hr { border-style:dotted;
+    
+    border-top-style: none ;
+    border-color: grey;
+    border-width: 5px;
+   
+    
+    width: 10%;
+
+}
+/* .hobbies{
+display: inline-block;
+
+} */
+.hobbies{
+    background-color: #8ca7a7;
+    width: 600px;
+    height: 110px;
+    padding: 10px;
+}
+
+.football{
+    display: inline;
+    position: relative;
+    left: 50px;
+    
+   
+}
+.books{
+    position: relative;
+    left: 140px;
+    bottom: 105px;
+   
+}
+.coding{
+    position: relative;
+    left: 245px;
+    bottom: 210px;
+}
+.movies{
+    position:relative;
+    left: 355px;
+   bottom: 315px;
+}
+
+.academic{
+    background-color:#8ca7a7;
+    width: 600px;
+    height: 110px;
+    padding: 10px;
+    
+}
+.trophy{
+    position: relative;
+    left: 50px;
+
+}
+.medal{
+    position: relative;
+    left: 160px;
+    bottom: 105px;
+}
+
+.sports{
+    
+        background-color:#8ca7a7;
+        width: 600px;
+        height: 110px;
+        padding: 10px;   
+}
+.medal-two{
+    position: relative;
+    left: 60px;
+   
+}
+.karate{
+    position: relative;
+    left: 170px;
+    bottom: 105px;
+}
